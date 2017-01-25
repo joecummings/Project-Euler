@@ -1,3 +1,5 @@
+// Circle.cpp takes the inputs of two circles and calculates whether or not they overlap.
+
 #include <iostream>
 #include <cmath>
 #include <vector>
@@ -30,6 +32,7 @@ bool overlapped(Circle C1, Circle C2)
   }
 }
 
+// Accepts circle inputs until a negative radius is declared.
 int main() {
  
   Circle C = read_circle();
