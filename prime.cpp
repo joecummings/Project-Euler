@@ -1,3 +1,5 @@
+// Prime.cpp takes an input n and prints all the prime numbers between 2 and n.
+
 #include <iostream>
 #include <cmath>
 using namespace std;
@@ -14,7 +16,7 @@ bool is_prime(int p) {
   return true;
 }
 
-// Print all prime numbers between 2 and int n.
+// Prints all prime numbers between 2 and int n.
 int main() {
  
   int n = 0;
