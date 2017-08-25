@@ -1,2 +1,2 @@
 # practice-problems-cpp
-Practice using C++
+Practice using C++ and solving fun programming problems
